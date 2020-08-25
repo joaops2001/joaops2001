@@ -1,7 +1,9 @@
-### Hi there 👋
+### Olá, bem vindos ao meu GitHub!
 
 <!--
 **joaops2001/joaops2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Meu nome é João Pedro, tenho 19 anos e sou licenciando em matemática pela Universidade Federal de Alagoas. Gosto de HTML, CSS, JS e Python.
 
 Here are some ideas to get you started:
 
